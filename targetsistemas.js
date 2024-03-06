@@ -19,7 +19,7 @@ function somaValores() {
   return SOMA;
 }
 
-console.log(`1) ${somaValores()}`); // Resultado: 91
+console.log(`1) ${somaValores()}`); 
 
 // 2)
 
